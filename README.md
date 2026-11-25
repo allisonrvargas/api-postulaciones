@@ -1,4 +1,7 @@
-# API de Postulaciones
+﻿# API de Postulaciones
+
+[![CI](https://github.com/allisonrvargas/api-postulaciones/actions/workflows/ci.yml/badge.svg)](https://github.com/allisonrvargas/api-postulaciones/actions/workflows/ci.yml)
+[![Licencia: MIT](https://img.shields.io/badge/licencia-MIT-green.svg)](LICENSE)
 
 API REST para gestionar postulaciones de candidatos a vacantes. Cada postulación recibe automáticamente un puntaje y una prioridad para que los reclutadores atiendan primero los perfiles más afines.
 
